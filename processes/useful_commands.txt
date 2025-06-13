@@ -1,0 +1,20 @@
+# Returns type of command
+type <command>
+
+# List all aliases
+alias
+
+# List all functions
+declare -f
+
+# List all processes with parents
+ps -e -o pid,ppid,cmd 
+
+
+eg: ps -e -o pid,ppid,cmd | grep chrome
+
+# List all processes with resource usage
+ps -o pid,vsz,rss,cmd -p <pid>
+
+
+
