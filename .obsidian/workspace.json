@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "42055b7cef158601",
+    "type": "split",
+    "children": [
+      {
+        "id": "341140c10b8c4c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b38a242b6badd89",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Operating Systems Three Easy Pieces ( etc.) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Operating Systems Three Easy Pieces ( etc.) (Z-Library)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab4a8f2ebc9ac3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d47655344efb1b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8117ffb9bba4d710",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2f1d9c7fb7e6a8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3ec5383c3bfeee0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b4e511ded9e82d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e47d7224f72f029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c094198812a7ecef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating Systems Three Easy Pieces ( etc.) (Z-Library).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Operating Systems Three Easy Pieces ( etc.) (Z-Library)"
+            }
+          },
+          {
+            "id": "69ccb2551cca6d58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating Systems Three Easy Pieces ( etc.) (Z-Library).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Operating Systems Three Easy Pieces ( etc.) (Z-Library)"
+            }
+          },
+          {
+            "id": "89c548f8b84a01be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f90e4bbdd3f3d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating Systems Three Easy Pieces ( etc.) (Z-Library).pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Operating Systems Three Easy Pieces ( etc.) (Z-Library)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b38a242b6badd89",
+  "lastOpenFiles": []
+}
